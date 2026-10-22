@@ -1,0 +1,14 @@
+# Track only the submission files.
+/*
+!/.gitignore
+!/CSPG730_FA26_A1_700049326_SaeedThabit.ipynb
+!/README.md
+!/requirements.txt
+!/data/
+
+/data/*
+!/data/imdb_movie_dataset.csv
+!/data/imdb_cleaned.csv
+!/assets/
+/assets/*
+!/assets/CIT_Logo.jpg
