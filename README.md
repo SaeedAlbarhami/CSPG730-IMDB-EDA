@@ -10,6 +10,8 @@ CSPG730 Assignment 1 — Saeed Thabit (700049326). Analysis of 1,000 movies rele
 - `requirements.txt` — Python dependencies.
 - `assets/CIT_Logo.jpg` — college logo; the first cell uses this local file or displays it from GitHub if missing.
 
+- `output/pdf/CSPG730_FA26_A1_700049326_SaeedThabit.pdf` — printable notebook with code, results, and charts.
+
 ## Run locally
 
 Use Python 3.12. From a terminal:
@@ -24,6 +26,8 @@ python -m notebook
 Open the notebook, select **Kernel → Restart & Run All**, and run from the project folder containing `data/`.
 
 ## Run in Google Colab
+
+[Open in Google Colab](https://colab.research.google.com/drive/11gFMitot8_iTQSB2DfHgg0diwHXKbRWF?usp=sharing) · [GitHub repository](https://github.com/SaeedAlbarhami/CSPG730-IMDB-EDA)
 
 Open the notebook through **File → Open notebook → GitHub** using the repository URL, then select **Runtime → Run all**. The notebook automatically reads the raw CSV from GitHub when `data/imdb_movie_dataset.csv` is unavailable locally; no repository clone or manual upload is needed. The CSV must first be published in the public GitHub repository.
 

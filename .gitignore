@@ -12,3 +12,9 @@
 !/assets/
 /assets/*
 !/assets/CIT_Logo.jpg
+
+!/output/
+/output/*
+!/output/pdf/
+/output/pdf/*
+!/output/pdf/CSPG730_FA26_A1_700049326_SaeedThabit.pdf
